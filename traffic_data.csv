@@ -1,0 +1,16 @@
+time_of_day,day_of_week,weather,traffic_volume,accident_occurred
+morning,monday,sunny,high,0
+evening,friday,rainy,very_high,1
+afternoon,wednesday,cloudy,medium,0
+morning,tuesday,foggy,low,1
+evening,thursday,sunny,high,0
+morning,saturday,rainy,low,0
+afternoon,sunday,sunny,medium,0
+evening,monday,cloudy,high,1
+morning,friday,sunny,very_high,0
+afternoon,tuesday,rainy,medium,1
+evening,wednesday,foggy,low,0
+morning,thursday,cloudy,high,0
+afternoon,saturday,sunny,high,0
+evening,sunday,rainy,low,1
+morning,wednesday,foggy,medium,1
